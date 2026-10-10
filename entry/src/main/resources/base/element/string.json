@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "相片纸图片装帧与水印编辑器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "把日常装订成一张有温度的相片纸"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "相片纸"
+    }
+  ]
+}
